@@ -1,0 +1,111 @@
+  {
+  "HI" : {
+    "HI0010000" : {
+      "ori" : "HI0010000",
+      "agency_name" : "Hawaii Police Department County Sheriff's Office",
+      "agency_type_name" : "County",
+      "state_name" : "Hawaii",
+      "state_abbr" : "HI",
+      "division_name" : "Pacific",
+      "region_name" : "West",
+      "region_desc" : "Region IV",
+      "county_name" : "HAWAII",
+      "nibrs" : false,
+      "latitude" : 19.716698,
+      "longitude" : -155.08688,
+      "nibrs_start_date" : null
+    },
+    "HI0050000" : {
+      "ori" : "HI0050000",
+      "agency_name" : "University or College111",
+      "agency_type_name" : "University or College",
+      "state_name" : "Hawaii",
+      "state_abbr" : "HI",
+      "division_name" : "Pacific",
+      "region_name" : "West",
+      "region_desc" : "Region IV",
+      "county_name" : "MAUI",
+      "nibrs" : false,
+      "latitude" : 20.887321,
+      "longitude" : -156.48763,
+      "nibrs_start_date" : null
+    },
+    "HI0020000" : {
+      "ori" : "HI0020000",
+      "agency_name" : "Honolulu Police Department",
+      "agency_type_name" : "City",
+      "state_name" : "Hawaii",
+      "state_abbr" : "HI",
+      "division_name" : "Pacific",
+      "region_name" : "West",
+      "region_desc" : "Region IV",
+      "county_name" : "HONOLULU",
+      "nibrs" : true,
+      "latitude" : 21.304317,
+      "longitude" : -157.85077,
+      "nibrs_start_date" : "01/01/2018"
+    },
+    "HI0040000" : {
+      "ori" : "HI0040000",
+      "agency_name" : "Kauai Police Department County Sheriff's Office",
+      "agency_type_name" : "County",
+      "state_name" : "Hawaii",
+      "state_abbr" : "HI",
+      "division_name" : "Pacific",
+      "region_name" : "West",
+      "region_desc" : "Region IV",
+      "county_name" : "KAUAI",
+      "nibrs" : false,
+      "latitude" : 22.012038,
+      "longitude" : -159.705965,
+      "nibrs_start_date" : null
+    }
+  },
+  "DC" : {
+    "DCMPD0000" : {
+      "ori" : "DCMPD0000",
+      "agency_name" : "University or College222",
+      "agency_type_name" : "University or College",
+      "state_name" : "District of Columbia",
+      "state_abbr" : "DC",
+      "division_name" : "South Atlantic",
+      "region_name" : "South",
+      "region_desc" : "Region III",
+      "county_name" : "",
+      "nibrs" : false,
+      "latitude" : 38.894764,
+      "longitude" : -77.015205,
+      "nibrs_start_date" : null
+    },
+    "DCMTP0000" : {
+      "ori" : "DCMTP0000",
+      "agency_name" : "Metro Transit Police",
+      "agency_type_name" : "Other",
+      "state_name" : "District of Columbia",
+      "state_abbr" : "DC",
+      "division_name" : "South Atlantic",
+      "region_name" : "South",
+      "region_desc" : "Region III",
+      "county_name" : "",
+      "nibrs" : true,
+      "latitude" : 38.89739,
+      "longitude" : -77.01894,
+      "nibrs_start_date" : "01/01/2000"
+    },
+    "DC0011300" : {
+      "ori" : "DC0011300",
+      "agency_name" : "DC Fire and Emergency Medical Services Arson Investigation Unit",
+      "agency_type_name" : "Other",
+      "state_name" : "District of Columbia",
+      "state_abbr" : "DC",
+      "division_name" : "South Atlantic",
+      "region_name" : "South",
+      "region_desc" : "Region III",
+      "county_name" : "",
+      "nibrs" : false,
+      "latitude" : 38.904103,
+      "longitude" : -77.017229,
+      "nibrs_start_date" : null
+    }
+  }
+}
